@@ -1,0 +1,17 @@
+/vendor/
+node_modules/
+node_modules/*
+.idea/*
+.env
+resources/css/*
+resources/js/*
+public/assets
+public/build
+public/js
+public/css
+public/storage
+public/apps
+new-ssl-certs/
+public/fonts/
+public/icons/
+public/resources/
